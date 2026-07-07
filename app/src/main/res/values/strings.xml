@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">APK Editor BSL</string>
+    <string name="choose_apk_storage">Choose APK From Storage</string>
+    <string name="choose_apk_apps">Choose APK From Installed Apps</string>
+    <string name="extract_apk">Extract APK</string>
+    <string name="advanced_tools">Advanced Tools</string>
+    <string name="see_all">See All</string>
+    <string name="apk_conversion">APK Conversion</string>
+    <string name="sign_apk">Sign APK</string>
+    <string name="storage_status">Storage Status</string>
+    <string name="add_patch_toast">Add Patch Toast</string>
+    <string name="injection_utility">Injection Utility</string>
+    <string name="odex_patcher">Odex Patcher</string>
+    <string name="runtime_optimization">Runtime optimization</string>
+    <string name="home">Home</string>
+    <string name="files">Files</string>
+    <string name="settings">Settings</string>
+    <string name="select_local_files">Select local files</string>
+    <string name="browse_system_apps">Browse system apps</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APK Editor BSL</string>
+    <string name="choose_apk_storage">اختر تطبيق من مساحة التخزين</string>
+    <string name="choose_apk_apps">اختر تطبيق من التطبيقات المثبتة</string>
+    <string name="extract_apk">استخراج تطبيق</string>
+    <string name="advanced_tools">أدوات متقدمة</string>
+    <string name="see_all">عرض الكل</string>
+    <string name="apk_conversion">تحويل التطبيق</string>
+    <string name="sign_apk">توقيع التطبيق</string>
+    <string name="storage_status">حالة التخزين</string>
+    <string name="add_patch_toast">إضافة رسالة منبثقة</string>
+    <string name="injection_utility">أداة الحقن</string>
+    <string name="odex_patcher">باتش Odex</string>
+    <string name="runtime_optimization">تحسين وقت التشغيل</string>
+    <string name="home">الرئيسية</string>
+    <string name="files">الملفات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="select_local_files">تحديد ملفات محلية</string>
+    <string name="browse_system_apps">تصفح تطبيقات النظام</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "APK Editor BSL",
+  "description": "Professional APK Editor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
